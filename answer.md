@@ -40,41 +40,32 @@ fork過來的資料庫。
 #### 8.commit後，接著push上去GITHUB資料庫。
 <img src="../112-1HW1/img/h.push.png" alt="" title="">
 
+#### 9.在專案資料夾下，進⾏第一次遠端倉庫拉取。
+
+#### 10.接著準備進行分支並幫分支命名，成為testdev分⽀。
+<img src="../112-1HW1/img/i.建立分支.png" alt="" title="">
+
+#### 11.依照老師給的指示，新增一個新的檔案B.txt。
+
+#### 12.使用add、commit、push，步驟跟上面大同小異。
+
+#### 13.繼續在專案資料夾下，進⾏第二次遠端倉庫拉取。
+
+#### 14.遷出testdev分支回到原本的main分⽀。
+
+#### 15.依照老師給的指示，再次新增一個檔案B.txt。
+
+#### 16.使用add、commit、push，步驟跟上面大同小異。
+
+#### 17.將testdev分⽀內容合併到main分⽀上。
+<img src="../112-1HW1/img/i.回到分支.png" alt="" title="">
+
+#### 18.最後將所有的檔案都上傳到Github資料庫去。
 
 
 
 
 
-
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
-
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
 
 ## 個人認為完成作業須具備觀念
-
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
+這項作業著重於去熟悉Git的語法和指令，在過程中不免會遇到瓶頸，會挫折都是人之常情，可以休息一下或者試試別的可能性，說不定就剛好被試成功了!語法固然重要，但怎麼解決問題更重要!
